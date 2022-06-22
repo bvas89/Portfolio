@@ -3,15 +3,23 @@
 This primarily contains scripts from my Unity2d mobile project, Save Toasty!.
 
 Highlighted Script(s):
-LevelScriptableObject.cs, Spawner.cs
+Levels: SpawnMethod.cs -> (WeightedRandom, Batch, Precise, Wave) -> DailyLevel -> DailySpawner
+Abilities: Ability.cs -> AbilityMagGlass -> MagGlassController ( or -> AbilityBasketball -> BasketballController).
 
-The Level and Spawner scripts work in tandem; Level script contains 5 methods of spawning, some with submethods. The Spawner component reads these values and spawns the Ants accordingly.
+The SpawnMethod script is a base scriptable object containing information on when to spawn ants. The DailyLevel takes any number of these Methods and create a Master list from; it also holds which PowerUps will be available. The spawning is carried out by the DailySpawner.
+
+The Ability script the PowerUps that can be used, with two examples.
 
 --- ABOUT SAVE TOASTY! ---
 Save Toasty! is a mobile tapping game that allows the player to use abilities to save Toasty before he is eaten by ants.
-This can be looked at in two parts: release challenge and long haul.
 
-I challenged myself to build a new project to release on iOS and Android and was able to do so, part-time, within two months.
-I am now going back and incorporating more fleshed-out ideas and techniques. These are the scripts provided.
+Overview of features incorporated:
+Pheramone following system.
+Modular Levels and abilities.
+Unity UI Toolkit
+NavMeshAgents
+SpriteResolver / Library
+(Unity) Actions
+Crumbs are pulled from Toasty when bitten. These are left on the ground if said ant has been squashed. Tap again to heal.
 
-
+As of Jun23, the above updates are only available on Android. Further updates will be incorporated before builidng to iOS again.
