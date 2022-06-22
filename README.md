@@ -8,7 +8,7 @@ Abilities: Ability.cs -> AbilityMagGlass -> MagGlassController ( or -> AbilityBa
 
 The SpawnMethod script is a base scriptable object containing information on when to spawn ants. The DailyLevel takes any number of these Methods and create a Master list from; it also holds which PowerUps will be available. The spawning is carried out by the DailySpawner.
 
-The Ability script the PowerUps that can be used, with two examples.
+The Ability script the PowerUps that can be used, with two examples. Furthermore, I've attached the Power-UpIconNotes.pdf. These are notes to my partner/artist about our latest batch of artwork.
 
 --- ABOUT SAVE TOASTY! ---
 Save Toasty! is a mobile tapping game that allows the player to use abilities to save Toasty before he is eaten by ants.
