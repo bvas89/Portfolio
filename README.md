@@ -14,12 +14,19 @@ The Ability script the PowerUps that can be used, with two examples. Furthermore
 Save Toasty! is a mobile tapping game that allows the player to use abilities to save Toasty before he is eaten by ants.
 
 Overview of features incorporated:
+
 Pheramone following system.
+
 Modular Levels and abilities.
+
 Unity UI Toolkit.
+
 NavMeshAgents.
+
 SpriteResolver / Library.
+
 (Unity) Actions.
+
 FEATURE: Crumbs are pulled from Toasty when bitten. These are left on the ground if said ant has been squashed. Tap again to heal.
 
 As of Jun23, the above updates are only available on Android. Further updates will be incorporated before builidng to iOS again.
