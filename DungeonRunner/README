@@ -1,0 +1,7 @@
+DungeonRunner is a project focused more on developing a deeper understanding of videogame architecture, opposed to shooting for a complete project under a deadline. By doing so, I can reference this work for faster prototyping and getting ideas off the ground.
+
+That being said, the game itself is an ActionRPG in which the player may summon up to four AI-driven creatures to fight.
+
+Major Points I am/will/want to incorportate:
+1. Deeper understanding of OOP principles. Creatures and Abilities belong to classes, and will have Elemental type advantages.
+2. Verbose State Machines.
