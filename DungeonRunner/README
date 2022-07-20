@@ -1,7 +1,17 @@
-DungeonRunner is a project focused more on developing a deeper understanding of videogame architecture, opposed to shooting for a complete project under a deadline. By doing so, I can reference this work for faster prototyping and getting ideas off the ground.
-
-That being said, the game itself is an ActionRPG in which the player may summon up to four AI-driven creatures to fight.
+DungeonRunner is a project in which the end goal is less 'making a game' and more 'advancing my knowledge'. The concept is: An ActionRPG where the player summons AI-driven creatures to fight. The game follows roguelike principles but its direction will mostly follow what I hope to accomplish in the next step.
 
 Major Points I am/will/want to incorportate:
-1. Deeper understanding of OOP principles. Creatures and Abilities belong to classes, and will have Elemental type advantages.
+1. Deeper understanding of OOP principles.
+  . What is the minimum effecient information I can provide?
+  . How much derivation is too much derivation?
 2. Verbose State Machines.
+  . Easy-to-use StateMachine *(Currently : No/Combat states, Ability internal state)
+  . SubStates
+  . Major States, such as Cutscene/Gameplay/PauseMenu
+3. Complex Enemy AI
+  . Internal priority system for next attack *
+  . Move into range || Use ranged attack
+  . Create range of enemies, from simple to boss
+4. Procedural Generation
+  . Understand the theory and practice behind it
+  . Generate a room // Chain of roomss
