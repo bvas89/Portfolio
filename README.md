@@ -1,6 +1,6 @@
 Welcome to Bobby Vasconi's coding portfolio
 
-(as of 8/2/2023)
+(8/2/2023)
 I am Unity developer and creator of Save Toasty!, a mobile game available on Apple and Android.
 Beyond that I have a PC vertical slice, a mobile app (now removed), and a larger solo project in the works. Below is the preferred order to review these projects.
 
