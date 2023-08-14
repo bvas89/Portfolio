@@ -9,7 +9,7 @@ Beyond that I have a PC vertical slice, a mobile app (now removed), and a larger
 
 
 2. Save Toasty!
-  Save Toasty! is a mobile tapping game. This was a learning project I iterated over many times before deciding to push for release, so the scripts come from a variety of time periods and skill levels. Some accomplishments I achieve are:
+  Save Toasty! is a mobile tapping game. This was a learning project I iterated over many times before deciding to push for release so the scripts come from a variety of time periods and skill levels. Some accomplishments I achieved are:
     1. Varying Global Difficulty via Firebase - The success rate of all players determines stats for the next day - such as enemy health and spawn rate.
     2. Pheromones - Because the game uses ants as an enemy, they are set to follow other ants that have successfully gathered Crumbs.
     4. I am self-taught and took an idea from inception to release, on mobile nonetheless.
