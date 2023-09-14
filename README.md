@@ -4,11 +4,11 @@ Welcome to Bobby Vasconi's coding portfolio
 I am Unity developer and creator of Save Toasty!, a mobile game available on Apple and Android.
 Beyond that I have a PC vertical slice, a mobile app (now removed), and a larger solo project in the works. Below is the preferred order to review these projects.
 
-1. Toasty's Picnic Pack
-  (TPP) is a new solo project with fresh ideas and a greater sense of project management. It will be my spin on a variety pack of skill games such as Snake and Flappy bird. This is the most recent code I've written, showcasing my current ability and project management.
+1. Toasty's Picnic Pack  
+  TPP is a new solo project with fresh ideas and a greater sense of project management. It will be my spin on a variety pack of skill games such as Snake and Flappy bird. This is the most recent code I've written, showcasing my current ability and project management.
 
 
-2. Save Toasty!
+2. Save Toasty!<br />
   Save Toasty! is a mobile tapping game. This was a learning project I iterated over many times before deciding to push for release so the scripts come from a variety of time periods and skill levels. Some accomplishments I achieved are:
     1. Varying Global Difficulty via Firebase - The success rate of all players determines stats for the next day - such as enemy health and spawn rate.
     2. Pheromones - Because the game uses ants as an enemy, they are set to follow other ants that have successfully gathered Crumbs.
