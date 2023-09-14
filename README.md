@@ -5,7 +5,7 @@ I am Unity developer and creator of Save Toasty!, a mobile game available on App
 Beyond that I have a PC vertical slice, a mobile app (now removed), and a larger solo project in the works. Below is the preferred order to review these projects.
 
 1. Toasty's Picnic Pack
-  TPP is a new solo project with fresh ideas and a greater sense of project management. It will be my spin on a variety pack of skill games such as Snake and Flappy bird. This is the most recent code I've written, showcasing my current ability and project management.
+  (TPP) is a new solo project with fresh ideas and a greater sense of project management. It will be my spin on a variety pack of skill games such as Snake and Flappy bird. This is the most recent code I've written, showcasing my current ability and project management.
 
 
 2. Save Toasty!
