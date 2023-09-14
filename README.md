@@ -25,7 +25,7 @@ Beyond that I have a PC vertical slice, a mobile app (now removed), and a larger
 
 
 5. **Unitedex** (Not Listed) <br />
-  Unitedex was a Pokemon Unite helper app allowing users to click into Pokemon to see attack and item descriptions - which are unavailable to read during battle (circa app release). It was released for mobile but has since been pulled for legal reasons.
+  Unitedex was a Pokemon Unite helper app allowing users to see attack and item descriptions, which are unavailable to read during battle (circa app release). It was released for mobile but has since been pulled for legal reasons.
 
 Lastly, here is an older video showcasing my projects in real time.
 https://youtu.be/uYMn2zwSjxE   
